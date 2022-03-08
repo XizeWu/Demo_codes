@@ -9,7 +9,7 @@ We release the three experimental datasets (features extracted by Resnet50) as f
 - MS COCO, [[Baidu Pan](https://pan.baidu.com/s/1i1jqHD1UiaSmZuNiKXlOWA), password: hjtb]
 
 ### Demo 
-Taking MIR Flickr as an example, our model can be trained and verified by the following command:
+The demo codes can be trained and verified by the following command:
 ```bash
 python demo.py
 ```
